@@ -1,2 +1,3 @@
 # fcc-rwdcert-repo
-My freeCodeCamp Responsive Web Design Certification projects.
+This contains my freeCodeCamp Responsive Web Design Certification projects.
+I'm practicing how to use github as well.
